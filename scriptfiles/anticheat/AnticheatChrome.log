@@ -1,0 +1,1150 @@
+[Tusso, 11]
+Comment: No comment
+Date: 13. August 2017
+Time: 19:16:53
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 1364.970825 -2283.566894 318.317687 271.828430 0 0
+State: 2 100.000000 100.000000 0  
+Speed: 328 48 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0x3399FF00
+Money: 505675 505675
+Score: 10
+Skin: 280
+Wanted level: 0
+Drunk level: 1831
+Player time: 12:00
+Keys: 0x10008 0x0 0x0
+Camera: 1362.407104 -2300.492919 231.636306 0.108154 0.698864 0.707029
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: 190 522 NRG-500 0.044682 0.296767 2.028564 339.720794 0.971483 -0.158841 0.028371 0.173734 919.206970 0b0 0b0 0b0 0b0 0
+Vehicle components: 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1
+
+[Tusso, 11]
+Comment: No comment
+Date: 26. August 2017
+Time: 21:17:45
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 1693.377075 1454.820312 10.764131 52.516414 0 0
+State: 1 100.000000 0.000000 1189 PED IDLE_STANCE
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 6000 6000
+Score: 1
+Skin: 293
+Wanted level: 0
+Drunk level: 1633
+Player time: 12:00
+Keys: 0x0 0x0 0x0
+Camera: 1696.151000 1452.693359 11.539099 -0.792536 0.607773 -0.049979
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tren_Tres, 1]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:39:58
+IP: 127.0.0.1
+Ping: 1
+gpci: 
+Coordinates: 2864.750000 1252.001586 12.125619 0.000000 0 55
+State: 0 100.000000 160.000000 0  
+Speed: 1 1 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 71
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x0 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: 5 538 Streak 0.000000 -0.005615 0.000000 180.000015 0.000000 0.000000 0.000000 1.000000 1000.000000 0b0 0b0 0b0 0b0 0
+Vehicle components: 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1
+
+[Marcelo, 3]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:39:58
+IP: 127.0.0.1
+Ping: 3
+gpci: 
+Coordinates: 1544.274780 -1631.880737 13.382812 91.389137 0 55
+State: 0 100.000000 0.000000 1189 PED IDLE_STANCE
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 24 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 281
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x0 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Camello, 5]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:39:58
+IP: 127.0.0.1
+Ping: 5
+gpci: 
+Coordinates: 2438.742187 -1650.942993 13.484097 69.012573 0 55
+State: 0 100.000000 0.000000 1231 PED RUN_PLAYER
+Speed: 5 5 -0.032071 0.011703 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 29
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x400 0xFFFFFF80 0xFFFFFF80
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Alexis, 7]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:39:58
+IP: 127.0.0.1
+Ping: 7
+gpci: 
+Coordinates: 1809.272460 788.871398 11.475921 0.000000 0 55
+State: 0 100.000000 0.000000 0  
+Speed: 110 110 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0x3399FF00
+Money: 0 0
+Score: 0
+Skin: 71
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x0 0x0 0xFFFFFF80
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: 17 431 Bus 0.013670 0.689864 -0.020184 357.115539 0.999479 0.019706 -0.003881 0.025231 1000.000000 0b0 0b0 0b0 0b0 0
+Vehicle components: 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1
+
+[Mao, 9]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:39:58
+IP: 127.0.0.1
+Ping: 9
+gpci: 
+Coordinates: 2789.228515 -2576.124511 3.421912 9.146730 0 55
+State: 0 100.000000 0.000000 1189 PED IDLE_STANCE
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 57
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x0 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tren_Uno, 2]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:39:59
+IP: 127.0.0.1
+Ping: 2
+gpci: 
+Coordinates: -1941.798950 183.821105 26.999258 0.000000 0 55
+State: 0 100.000000 0.000000 0  
+Speed: 15 15 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 71
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x8 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: 1 538 Streak 0.008056 0.094970 -0.000373 355.888183 0.999356 0.000211 0.000122 0.035874 1000.000000 0b0 0b0 0b0 0b0 0
+Vehicle components: 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1
+
+[Tren_Cuatro, 6]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:39:59
+IP: 127.0.0.1
+Ping: 6
+gpci: 
+Coordinates: 1699.980468 -1953.651489 14.875619 0.000000 0 55
+State: 0 100.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 71
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x0 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: 9 538 Streak 0.000000 0.000000 0.000000 89.835456 0.708121 0.000000 0.000000 -0.706090 1000.000000 0b0 0b0 0b0 0b0 0
+Vehicle components: 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1
+
+[Alejandro, 10]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:39:59
+IP: 127.0.0.1
+Ping: 10
+gpci: 
+Coordinates: 1188.947998 -1385.145141 13.529647 229.329605 0 55
+State: 0 100.000000 0.000000 1183 PED IDLE_ARMED
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 25 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 71
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x0 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[HippePepe, 4]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:39:59
+IP: 127.0.0.1
+Ping: 4
+gpci: 
+Coordinates: 97.268524 -151.852416 2.572095 315.135711 0 55
+State: 0 100.000000 0.000000 1231 PED RUN_PLAYER
+Speed: 7 7 0.031838 0.031990 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 50
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x400 0xFFFFFF80 0xFFFFFF80
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tren_Dos, 0]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:40:00
+IP: 127.0.0.1
+Ping: 0
+gpci: 
+Coordinates: 316.041809 -1055.641723 19.836725 0.000000 0 55
+State: 0 100.000000 0.000000 0  
+Speed: 83 83 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 71
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x8 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: 13 538 Streak -0.499450 0.148193 0.018371 73.481994 0.801223 -0.014122 -0.010540 -0.598105 1000.000000 0b0 0b0 0b0 0b0 0
+Vehicle components: 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1
+
+[Hugo, 8]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:40:00
+IP: 127.0.0.1
+Ping: 8
+gpci: 
+Coordinates: -1729.366699 -57.335674 3.554687 62.611286 0 55
+State: 0 100.000000 0.000000 1183 PED IDLE_ARMED
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 25 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 71
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x0 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tusso, 0]
+Comment: No comment
+Date: 28. August 2017
+Time: 11:49:04
+IP: 192.168.0.11
+Ping: 0
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 2050.047607 -1479.733276 163.827301 174.717529 0 0
+State: 2 95.000000 0.000000 0  
+Speed: 385 84 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0x3399FF00
+Money: 505920 505920
+Score: 5
+Skin: 280
+Wanted level: 0
+Drunk level: 538
+Player time: 12:00
+Keys: 0x10008 0x0 0x0
+Camera: 2064.477539 -1482.760742 117.701103 -0.691899 0.146147 0.707047
+Special action: 0
+Weapons: 0 0 4 -31073 0 0 27 -31073 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: 194 522 NRG-500 -0.513189 0.107423 2.351398 79.304496 0.767703 -0.058550 -0.048515 -0.636278 979.712890 0b0 0b0 0b0 0b0 0
+Vehicle components: 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1
+
+[Tusso, 11]
+Comment: No comment
+Date: 28. August 2017
+Time: 13:07:59
+IP: 192.168.0.17
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tusso, 11]
+Comment: No comment
+Date: 30. August 2017
+Time: 18:00:49
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tusso, 11]
+Comment: No comment
+Date: 30. August 2017
+Time: 18:02:03
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 1514.851684 -1660.734375 14.230891 90.102699 0 0
+State: 1 95.000000 100.000000 1189 PED IDLE_STANCE
+Speed: 0 0 -0.000511 -0.001730 -0.000770
+Armed weapon: 5 1
+Color: 0x3399FF00
+Money: 505320 500320
+Score: 5
+Skin: 280
+Wanted level: 0
+Drunk level: 1371
+Player time: 12:00
+Keys: 0x0 0x0 0x0
+Camera: 1517.622436 -1661.843505 16.651100 -0.792599 0.317286 -0.520687
+Special action: 0
+Weapons: 0 0 5 1 0 0 27 -31073 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tusso, 11]
+Comment: No comment
+Date: 30. August 2017
+Time: 22:08:54
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 1531.605346 -1389.360717 167.295791 355.245727 0 0
+State: 2 95.000000 100.000000 0  
+Speed: 297 87 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 610320 610320
+Score: 5
+Skin: 294
+Wanted level: 0
+Drunk level: 1170
+Player time: 12:00
+Keys: 0x10008 0x0 0x0
+Camera: 1529.446289 -1397.911254 147.959503 0.174214 0.685347 0.707070
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: 194 522 NRG-500 0.133292 0.530249 1.776323 345.463409 0.960173 -0.249124 0.031755 0.122456 1000.000000 0b0 0b0 0b0 0b0 0
+Vehicle components: 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1
+
+[Tusso, 11]
+Comment: No comment
+Date: 31. August 2017
+Time: 15:53:46
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tusso, 11]
+Comment: No comment
+Date: 31. August 2017
+Time: 16:56:26
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 1533.443969 -1384.005737 248.133575 202.894470 0 0
+State: 2 95.000000 100.000000 0  
+Speed: 269 69 0.000000 0.000000 0.000000
+Armed weapon: 0 -31073
+Color: 0xFFFFFF00
+Money: 710320 710320
+Score: 5
+Skin: 55
+Wanted level: 0
+Drunk level: 405
+Player time: 12:00
+Keys: 0x8 0x0 0x0
+Camera: 1531.034301 -1406.392456 173.793701 0.075423 0.703084 0.707094
+Special action: 0
+Weapons: 0 0 8 -31073 0 0 0 0 0 0 0 0 0 0 0 0 0 0 43 -31073 0 0 0 0 0 0
+Vehicle: 194 522 NRG-500 0.045916 0.426311 1.623564 353.989013 0.921563 -0.384670 0.020202 0.048388 936.454406 0b0 0b0 0b0 0b0 0
+Vehicle components: 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1
+
+[Tusso, 11]
+Comment: No comment
+Date: 31. August 2017
+Time: 17:25:39
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tusso, 11]
+Comment: No comment
+Date: 5. Septembre 2017
+Time: 19:37:25
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tusso, 11]
+Comment: No comment
+Date: 5. Septembre 2017
+Time: 19:38:20
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tusso, 11]
+Comment: No comment
+Date: 5. Septembre 2017
+Time: 20:45:51
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 5
+Skin: 55
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tusso, 11]
+Comment: No comment
+Date: 6. Septembre 2017
+Time: 14:56:55
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 07:00
+Keys: 0x7 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Tusso, 11]
+Comment: No comment
+Date: 6. Septembre 2017
+Time: 15:04:25
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 07:00
+Keys: 0x7 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Thryllas_Hazari, 11]
+Comment: No comment
+Date: 18. Octobre 2017
+Time: 18:22:05
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Thryllas_Hazari, 11]
+Comment: No comment
+Date: 18. Octobre 2017
+Time: 18:52:47
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Thryllas, 11]
+Comment: No comment
+Date: 19. Octobre 2017
+Time: 10:19:04
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Thryllas, 11]
+Comment: No comment
+Date: 19. Octobre 2017
+Time: 15:05:15
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Thryllas, 11]
+Comment: No comment
+Date: 19. Octobre 2017
+Time: 15:15:25
+IP: 192.168.0.10
+Ping: 11
+gpci: 4E94489D099CCD09904F09480E5DC9E854CFEF89
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Marcelo, 3]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:12:14
+IP: 127.0.0.1
+Ping: 3
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Alexis, 4]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:12:15
+IP: 127.0.0.1
+Ping: 4
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Alejandro, 6]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:12:15
+IP: 127.0.0.1
+Ping: 6
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Camello, 7]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:12:15
+IP: 127.0.0.1
+Ping: 7
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Mao, 8]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:12:15
+IP: 127.0.0.1
+Ping: 8
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[HippePepe, 9]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:12:16
+IP: 127.0.0.1
+Ping: 9
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Hugo, 10]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:12:16
+IP: 127.0.0.1
+Ping: 10
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Alexis, 4]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:21:15
+IP: 127.0.0.1
+Ping: 4
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Marcelo, 5]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:21:15
+IP: 127.0.0.1
+Ping: 5
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Camello, 7]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:21:15
+IP: 127.0.0.1
+Ping: 7
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Alejandro, 8]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:21:15
+IP: 127.0.0.1
+Ping: 8
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[HippePepe, 6]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:21:15
+IP: 127.0.0.1
+Ping: 6
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Mao, 9]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:21:15
+IP: 127.0.0.1
+Ping: 9
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Hugo, 10]
+Comment: No comment
+Date: 20. Octobre 2017
+Time: 12:21:16
+IP: 127.0.0.1
+Ping: 10
+gpci: 
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xFFFFFF00
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0xC 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[, 0]
+Comment: No comment
+Date: 5. April 2024
+Time: 16:13:09
+IP: 
+Ping: 0
+gpci: ED40ED0E8089CC44C08EE9580F4C8C44EE8EE990
+Coordinates: 0.000000 -3.494299 1.205399 0.000000 12 1
+State: 9 100.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0xE7E7E700
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 12:00
+Keys: 0x0 0x0 0x0
+Camera: 0.000000 -3.494299 1.205399 0.000000 0.998359 -0.057263
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
