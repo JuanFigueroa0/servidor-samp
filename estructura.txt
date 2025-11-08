@@ -1,0 +1,1016 @@
+Listado de rutas de carpetas para el volumen SYSTEM
+El n£mero de serie del volumen es E421-21AE
+C:.
+³   announce
+³   announce.exe
+³   crashinfo.txt
+³   estructura.txt
+³   libmariadb.dll
+³   LICENSE
+³   log-core.dll
+³   log-core.so
+³   LOG_HOME.txt
+³   mysql_log.txt
+³   README
+³   samp-license.txt
+³   samp-npc
+³   samp-npc.exe
+³   samp-server.exe
+³   samp.ban
+³   server-readme.txt
+³   server.cfg
+³   server_log.txt
+³   
+ÃÄÄÄfilterscripts
+³       a51_base.amx
+³       a51_base.pwn
+³       adminspec.amx
+³       adminspec.pwn
+³       attachments.amx
+³       attachments.pwn
+³       base.amx
+³       base.pwn
+³       baseaf.amx
+³       baseaf.pwn
+³       cargoship.amx
+³       cargoship.pwn
+³       dillimore_gas.amx
+³       dillimore_gas.pwn
+³       ferriswheel.amx
+³       ferriswheel.pwn
+³       flymode.amx
+³       flymode.pwn
+³       fsdebug.amx
+³       fsdebug.pwn
+³       gl_actions.amx
+³       gl_actions.pwn
+³       gl_chat.amx
+³       gl_chat.pwn
+³       gl_chatbubble.amx
+³       gl_chatbubble.pwn
+³       gl_mapicon.amx
+³       gl_mapicon.pwn
+³       gl_npcs.amx
+³       gl_npcs.pwn
+³       gl_property.amx
+³       gl_property.pwn
+³       gl_realtime.amx
+³       gl_realtime.pwn
+³       http_test.amx
+³       http_test.pwn
+³       iradio.amx
+³       iradio.pwn
+³       kylies_barn.amx
+³       kylies_barn.pwn
+³       ls_apartments1.amx
+³       ls_apartments1.pwn
+³       ls_beachside.amx
+³       ls_beachside.pwn
+³       ls_elevator.amx
+³       ls_elevator.pwn
+³       ls_mall.amx
+³       ls_mall.pwn
+³       ls_prisonwalls.amx
+³       ls_prisonwalls.pwn
+³       ls_wellsfargo.amx
+³       ls_wellsfargo.pwn
+³       maxips.amx
+³       maxips.pwn
+³       menutest.amx
+³       menutest.pwn
+³       modular_houses.amx
+³       modular_houses.pwn
+³       modular_island.amx
+³       modular_island.pwn
+³       netstats.amx
+³       netstats.pwn
+³       npc_record.amx
+³       npc_record.pwn
+³       ospawner.amx
+³       ospawner.pwn
+³       pirateship.amx
+³       pirateship.pwn
+³       pnetstats.amx
+³       pnetstats.pwn
+³       pnetstats2.amx
+³       pnetstats2.pwn
+³       safe_animated.amx
+³       safe_animated.pwn
+³       samp_anims.amx
+³       samp_anims.pwn
+³       sf_building1.amx
+³       sf_building1.pwn
+³       sf_zombotech.amx
+³       sf_zombotech.pwn
+³       skinchanger.amx
+³       skinchanger.pwn
+³       stunt_island.amx
+³       stunt_island.pwn
+³       test_cmds.amx
+³       test_cmds.pwn
+³       vspawner.amx
+³       vspawner.pwn
+³       
+ÃÄÄÄgamemodes
+³       CALIRP.amx
+³       CALIRP.pwn
+³       
+ÃÄÄÄinclude
+³       crashdetect.inc
+³       Dini.inc
+³       gl_common.inc
+³       gl_messages.inc
+³       gl_spawns.inc
+³       vehicleutil.inc
+³       yom_buttons.inc
+³       
+ÃÄÄÄlogs
+³   ³   errors.log
+³   ³   warnings.log
+³   ³   
+³   ÀÄÄÄplugins
+³           mysql.log
+³           
+ÃÄÄÄnpcmodes
+³   ³   at400_ls.amx
+³   ³   at400_ls.pwn
+³   ³   at400_lv.amx
+³   ³   at400_lv.pwn
+³   ³   at400_sf.amx
+³   ³   at400_sf.pwn
+³   ³   mat_test.amx
+³   ³   mat_test.pwn
+³   ³   npcidle.amx
+³   ³   npcidle.pwn
+³   ³   npctest.amx
+³   ³   npctest.pwn
+³   ³   onfoot_test.amx
+³   ³   onfoot_test.pwn
+³   ³   taxi_ls_test.amx
+³   ³   taxi_ls_test.pwn
+³   ³   train_ls.amx
+³   ³   train_ls.pwn
+³   ³   train_lv.amx
+³   ³   train_lv.pwn
+³   ³   train_sf.amx
+³   ³   train_sf.pwn
+³   ³   
+³   ÀÄÄÄrecordings
+³           animtest1.rec
+³           animtest2.rec
+³           at400_ls_to_lv_x1.rec
+³           at400_lv_to_sf_x1.rec
+³           at400_sf_to_ls_x1.rec
+³           shotrun.rec
+³           train_ls_to_sf1.rec
+³           train_lv_to_ls1.rec
+³           train_sf_to_lv1.rec
+³           
+ÃÄÄÄpawno
+³   ³   libpawnc.dll
+³   ³   new.pwn
+³   ³   pawn.ico
+³   ³   pawnc.dll
+³   ³   pawnc.pdb
+³   ³   pawncc.exe
+³   ³   pawncc.pdb
+³   ³   pawndisasm.exe
+³   ³   pawndisasm.pdb
+³   ³   pawno.exe
+³   ³   rus.txt
+³   ³   settings.ini
+³   ³   
+³   ÃÄÄÄfilterscripts
+³   ³       Anticheat.amx
+³   ³       Botones.amx
+³   ³       mapeos.amx
+³   ³       relogio.amx
+³   ³       
+³   ÃÄÄÄinclude
+³   ³   ³   android-check.inc
+³   ³   ³   a_actor.inc
+³   ³   ³   a_http.inc
+³   ³   ³   a_mysql.inc
+³   ³   ³   a_npc.inc
+³   ³   ³   a_objects.inc
+³   ³   ³   a_players.inc
+³   ³   ³   a_samp.inc
+³   ³   ³   a_sampdb.inc
+³   ³   ³   a_vehicles.inc
+³   ³   ³   core.inc
+³   ³   ³   crashdetect.inc
+³   ³   ³   datagram.inc
+³   ³   ³   Dini.inc
+³   ³   ³   discord-cmd.inc
+³   ³   ³   discord-connector.inc
+³   ³   ³   djson.inc
+³   ³   ³   easyDialog.inc
+³   ³   ³   file.inc
+³   ³   ³   float.inc
+³   ³   ³   foreach.inc
+³   ³   ³   indirection.inc
+³   ³   ³   mapandreas.inc
+³   ³   ³   mSelection.inc
+³   ³   ³   Pawn.CMD.inc
+³   ³   ³   playerprogress.inc
+³   ³   ³   sampvoice.inc
+³   ³   ³   sampvoicescorpion.chm
+³   ³   ³   sampvoicescorpion.inc
+³   ³   ³   selec2.inc
+³   ³   ³   sscanf2.inc
+³   ³   ³   streamer.inc
+³   ³   ³   string.inc
+³   ³   ³   time.inc
+³   ³   ³   yom_buttons.inc
+³   ³   ³   zcmd.inc
+³   ³   ³   
+³   ³   ÃÄÄÄYSI
+³   ³   ³   ³   mose1.txt
+³   ³   ³   ³   y_als.inc
+³   ³   ³   ³   y_amx.inc
+³   ³   ³   ³   y_areas.inc
+³   ³   ³   ³   y_bintree.inc
+³   ³   ³   ³   y_bit.inc
+³   ³   ³   ³   y_bitmap.inc
+³   ³   ³   ³   y_cell.inc
+³   ³   ³   ³   y_classes - Copy (2).inc
+³   ³   ³   ³   y_classes - Copy.inc
+³   ³   ³   ³   y_classes 3.inc
+³   ³   ³   ³   y_classes copy 2.inc
+³   ³   ³   ³   y_classes.inc
+³   ³   ³   ³   y_colors.inc
+³   ³   ³   ³   y_colours.inc
+³   ³   ³   ³   y_commands.inc
+³   ³   ³   ³   y_debug.inc
+³   ³   ³   ³   y_dialog.inc
+³   ³   ³   ³   y_extra.inc
+³   ³   ³   ³   y_files.inc
+³   ³   ³   ³   y_flooding.inc
+³   ³   ³   ³   y_groups.inc
+³   ³   ³   ³   y_gui.inc
+³   ³   ³   ³   y_gui2.inc
+³   ³   ³   ³   y_hooks.inc
+³   ³   ³   ³   y_hooks_master.inc
+³   ³   ³   ³   y_ini.inc
+³   ³   ³   ³   y_inline.inc
+³   ³   ³   ³   y_iterate - experimental.inc
+³   ³   ³   ³   y_iterate.inc
+³   ³   ³   ³   y_jaggedarray.inc
+³   ³   ³   ³   y_languages.inc
+³   ³   ³   ³   y_lock.inc
+³   ³   ³   ³   y_malloc.inc
+³   ³   ³   ³   y_master.inc
+³   ³   ³   ³   y_mouse.inc
+³   ³   ³   ³   y_php.inc
+³   ³   ³   ³   y_playerarray.inc
+³   ³   ³   ³   y_playerset.inc
+³   ³   ³   ³   y_races.inc
+³   ³   ³   ³   y_remote.inc
+³   ³   ³   ³   y_scripting.inc
+³   ³   ³   ³   y_scriptinit.inc
+³   ³   ³   ³   y_stringhash.inc
+³   ³   ³   ³   y_svar.inc
+³   ³   ³   ³   y_td.inc
+³   ³   ³   ³   y_tdmorph.h
+³   ³   ³   ³   y_testing.inc
+³   ³   ³   ³   y_text.inc
+³   ³   ³   ³   y_timers.inc
+³   ³   ³   ³   y_users.inc
+³   ³   ³   ³   y_utils.inc
+³   ³   ³   ³   y_uvar.inc
+³   ³   ³   ³   y_va.inc
+³   ³   ³   ³   y_vplag.inc
+³   ³   ³   ³   y_weapons.inc
+³   ³   ³   ³   y_writemem.inc
+³   ³   ³   ³   y_writemem2.inc
+³   ³   ³   ³   y_writemem_old.inc
+³   ³   ³   ³   y_xml.inc
+³   ³   ³   ³   y_zonenames.inc
+³   ³   ³   ³   y_zonepulse.inc
+³   ³   ³   ³   
+³   ³   ³   ÃÄÄÄextra
+³   ³   ³   ³       y_extra_languages.inc
+³   ³   ³   ³       y_extra_other.inc
+³   ³   ³   ³       y_extra_users.inc
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄinternal
+³   ³   ³   ³       y_automasters.inc
+³   ³   ³   ³       y_classgroups.inc
+³   ³   ³   ³       y_dohooks - Copy.inc
+³   ³   ³   ³       y_dohooks.inc
+³   ³   ³   ³       y_formatin.inc
+³   ³   ³   ³       y_funcinc.inc
+³   ³   ³   ³       y_globaltags.inc
+³   ³   ³   ³       y_groupfirst.inc
+³   ³   ³   ³       y_grouponce.inc
+³   ³   ³   ³       y_grouprevert.inc
+³   ³   ³   ³       y_groupsecond.inc
+³   ³   ³   ³       y_groupsingle.inc
+³   ³   ³   ³       y_incognitostreamer.inc
+³   ³   ³   ³       y_inttest.inc
+³   ³   ³   ³       y_inttest2.inc
+³   ³   ³   ³       y_masteronce.inc
+³   ³   ³   ³       y_masterresolve.inc
+³   ³   ³   ³       y_natives.inc
+³   ³   ³   ³       y_nogroups.inc
+³   ³   ³   ³       y_overridemaster.inc
+³   ³   ³   ³       y_plugins.inc
+³   ³   ³   ³       y_renative.inc
+³   ³   ³   ³       y_shortfunc.inc
+³   ³   ³   ³       y_stripnumbers.inc
+³   ³   ³   ³       y_styles.inc
+³   ³   ³   ³       y_textint.inc
+³   ³   ³   ³       y_textrender.inc
+³   ³   ³   ³       y_unique - Copy.inc
+³   ³   ³   ³       y_unique.inc
+³   ³   ³   ³       y_version.inc
+³   ³   ³   ³       y_x11def.inc
+³   ³   ³   ³       y_x11parse.inc
+³   ³   ³   ³       y_x11switch.inc
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄy_als
+³   ³   ³   ³       impl.inc
+³   ³   ³   ³       tests.inc
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄy_bitmap
+³   ³   ³   ³       blending.inc
+³   ³   ³   ³       fonts.inc
+³   ³   ³   ³       impl.inc
+³   ³   ³   ³       patterns.inc
+³   ³   ³   ³       shapes.inc
+³   ³   ³   ³       subpixel.inc
+³   ³   ³   ³       tests.inc
+³   ³   ³   ³       write.inc
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄy_hooks
+³   ³   ³   ³       impl.inc
+³   ³   ³   ³       tests.inc
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄy_master
+³   ³   ³   ³       once.inc
+³   ³   ³   ³       tests.inc
+³   ³   ³   ³       _auto.inc
+³   ³   ³   ³       _cleanup.inc
+³   ³   ³   ³       _impl1.inc
+³   ³   ³   ³       _impl2.inc
+³   ³   ³   ³       _override.inc
+³   ³   ³   ³       _resolve.inc
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄy_races
+³   ³   ³   ³       groups.inc
+³   ³   ³   ³       impl.inc
+³   ³   ³   ³       tests.inc
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄy_svar
+³   ³   ³   ³       ini.inc
+³   ³   ³   ³       tests.inc
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄy_timers
+³   ³   ³   ³       impl.inc
+³   ³   ³   ³       tests.inc
+³   ³   ³   ³       v1.inc
+³   ³   ³   ³       v2.inc
+³   ³   ³   ³       v3.inc
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄy_users
+³   ³   ³   ³       blueg7.inc
+³   ³   ³   ³       ini.inc
+³   ³   ³   ³       tests.inc
+³   ³   ³   ³       
+³   ³   ³   ÃÄÄÄy_va
+³   ³   ³   ³       impl.inc
+³   ³   ³   ³       tests.inc
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄy_zonepulse
+³   ³   ³           impl.inc
+³   ³   ³           tests.inc
+³   ³   ³           
+³   ³   ÀÄÄÄYSI - copia
+³   ³       ³   mose1.txt
+³   ³       ³   y_als.inc
+³   ³       ³   y_amx.inc
+³   ³       ³   y_areas.inc
+³   ³       ³   y_bintree.inc
+³   ³       ³   y_bit.inc
+³   ³       ³   y_bitmap.inc
+³   ³       ³   y_cell.inc
+³   ³       ³   y_classes - Copy (2).inc
+³   ³       ³   y_classes - Copy.inc
+³   ³       ³   y_classes 3.inc
+³   ³       ³   y_classes copy 2.inc
+³   ³       ³   y_classes.inc
+³   ³       ³   y_colors.inc
+³   ³       ³   y_colours.inc
+³   ³       ³   y_commands.inc
+³   ³       ³   y_debug.inc
+³   ³       ³   y_dialog.inc
+³   ³       ³   y_extra.inc
+³   ³       ³   y_files.inc
+³   ³       ³   y_flooding.inc
+³   ³       ³   y_groups.inc
+³   ³       ³   y_gui.inc
+³   ³       ³   y_gui2.inc
+³   ³       ³   y_hooks.inc
+³   ³       ³   y_hooks_master.inc
+³   ³       ³   y_ini.inc
+³   ³       ³   y_inline.inc
+³   ³       ³   y_iterate - experimental.inc
+³   ³       ³   y_iterate.inc
+³   ³       ³   y_jaggedarray.inc
+³   ³       ³   y_languages.inc
+³   ³       ³   y_lock.inc
+³   ³       ³   y_malloc.inc
+³   ³       ³   y_master.inc
+³   ³       ³   y_mouse.inc
+³   ³       ³   y_php.inc
+³   ³       ³   y_playerarray.inc
+³   ³       ³   y_playerset.inc
+³   ³       ³   y_races.inc
+³   ³       ³   y_remote.inc
+³   ³       ³   y_scripting.inc
+³   ³       ³   y_scriptinit.inc
+³   ³       ³   y_stringhash.inc
+³   ³       ³   y_svar.inc
+³   ³       ³   y_td.inc
+³   ³       ³   y_tdmorph.h
+³   ³       ³   y_testing.inc
+³   ³       ³   y_text.inc
+³   ³       ³   y_timers.inc
+³   ³       ³   y_users.inc
+³   ³       ³   y_utils.inc
+³   ³       ³   y_uvar.inc
+³   ³       ³   y_va.inc
+³   ³       ³   y_weapons.inc
+³   ³       ³   y_writemem.inc
+³   ³       ³   y_writemem2.inc
+³   ³       ³   y_writemem_old.inc
+³   ³       ³   y_xml.inc
+³   ³       ³   y_zonenames.inc
+³   ³       ³   y_zonepulse.inc
+³   ³       ³   
+³   ³       ÃÄÄÄextra
+³   ³       ³       y_extra_languages.inc
+³   ³       ³       y_extra_other.inc
+³   ³       ³       y_extra_users.inc
+³   ³       ³       
+³   ³       ÃÄÄÄinternal
+³   ³       ³       y_automasters.inc
+³   ³       ³       y_classgroups.inc
+³   ³       ³       y_dohooks - Copy.inc
+³   ³       ³       y_dohooks.inc
+³   ³       ³       y_formatin.inc
+³   ³       ³       y_funcinc.inc
+³   ³       ³       y_globaltags.inc
+³   ³       ³       y_groupfirst.inc
+³   ³       ³       y_grouponce.inc
+³   ³       ³       y_grouprevert.inc
+³   ³       ³       y_groupsecond.inc
+³   ³       ³       y_groupsingle.inc
+³   ³       ³       y_incognitostreamer.inc
+³   ³       ³       y_inttest.inc
+³   ³       ³       y_inttest2.inc
+³   ³       ³       y_masteronce.inc
+³   ³       ³       y_masterresolve.inc
+³   ³       ³       y_natives.inc
+³   ³       ³       y_nogroups.inc
+³   ³       ³       y_overridemaster.inc
+³   ³       ³       y_plugins.inc
+³   ³       ³       y_renative.inc
+³   ³       ³       y_shortfunc.inc
+³   ³       ³       y_stripnumbers.inc
+³   ³       ³       y_styles.inc
+³   ³       ³       y_textint.inc
+³   ³       ³       y_textrender.inc
+³   ³       ³       y_unique - Copy.inc
+³   ³       ³       y_unique.inc
+³   ³       ³       y_version.inc
+³   ³       ³       y_x11def.inc
+³   ³       ³       y_x11parse.inc
+³   ³       ³       y_x11switch.inc
+³   ³       ³       
+³   ³       ÃÄÄÄy_als
+³   ³       ³       impl.inc
+³   ³       ³       tests.inc
+³   ³       ³       
+³   ³       ÃÄÄÄy_bitmap
+³   ³       ³       blending.inc
+³   ³       ³       fonts.inc
+³   ³       ³       impl.inc
+³   ³       ³       patterns.inc
+³   ³       ³       shapes.inc
+³   ³       ³       subpixel.inc
+³   ³       ³       tests.inc
+³   ³       ³       write.inc
+³   ³       ³       
+³   ³       ÃÄÄÄy_hooks
+³   ³       ³       impl.inc
+³   ³       ³       tests.inc
+³   ³       ³       
+³   ³       ÃÄÄÄy_master
+³   ³       ³       once.inc
+³   ³       ³       tests.inc
+³   ³       ³       _auto.inc
+³   ³       ³       _cleanup.inc
+³   ³       ³       _impl1.inc
+³   ³       ³       _impl2.inc
+³   ³       ³       _override.inc
+³   ³       ³       _resolve.inc
+³   ³       ³       
+³   ³       ÃÄÄÄy_races
+³   ³       ³       groups.inc
+³   ³       ³       impl.inc
+³   ³       ³       tests.inc
+³   ³       ³       
+³   ³       ÃÄÄÄy_svar
+³   ³       ³       ini.inc
+³   ³       ³       tests.inc
+³   ³       ³       
+³   ³       ÃÄÄÄy_timers
+³   ³       ³       impl.inc
+³   ³       ³       tests.inc
+³   ³       ³       v1.inc
+³   ³       ³       v2.inc
+³   ³       ³       v3.inc
+³   ³       ³       
+³   ³       ÃÄÄÄy_users
+³   ³       ³       blueg7.inc
+³   ³       ³       ini.inc
+³   ³       ³       tests.inc
+³   ³       ³       
+³   ³       ÃÄÄÄy_va
+³   ³       ³       impl.inc
+³   ³       ³       tests.inc
+³   ³       ³       
+³   ³       ÀÄÄÄy_zonepulse
+³   ³               impl.inc
+³   ³               tests.inc
+³   ³               
+³   ÀÄÄÄplugins
+³           crashdetect.so
+³           mysql.so
+³           pawncmd.so
+³           sampvoice.so
+³           sscanf.so
+³           streamer.so
+³           
+ÃÄÄÄplugins
+³       amxsscanf.dll
+³       crashdetect.dll
+³       mysql.dll
+³       pawncmd.dll
+³       sscanf.dll
+³       streamer.dll
+³       
+ÃÄÄÄplugins-descargados
+³   ³   amxsscanf.dll
+³   ³   CHANGES.txt
+³   ³   crashdetect-4.22-win32.zip
+³   ³   LICENSE
+³   ³   LICENSE.txt
+³   ³   mysql-R41-4-win32.zip
+³   ³   Pawn.CMD.inc
+³   ³   pawn.json
+³   ³   pawncmd-3.4.0-omp-win32.zip
+³   ³   pawncmd.dll
+³   ³   README.md
+³   ³   README.txt
+³   ³   samp-streamer-plugin-2.9.6.zip
+³   ³   sscanf-2.13.8-win32.zip
+³   ³   
+³   ÃÄÄÄcomponents
+³   ³       sscanf.dll
+³   ³       
+³   ÃÄÄÄcrashdetect-4.22-win32
+³   ³       crashdetect.dll
+³   ³       crashdetect.inc
+³   ³       LICENSE.txt
+³   ³       pawn.json
+³   ³       README.md
+³   ³       
+³   ÃÄÄÄmysql-R41-4-win32
+³   ³   ³   libmariadb.dll
+³   ³   ³   LICENSE
+³   ³   ³   log-core.dll
+³   ³   ³   
+³   ³   ÃÄÄÄpawno
+³   ³   ³   ÀÄÄÄinclude
+³   ³   ³           a_mysql.inc
+³   ³   ³           
+³   ³   ÀÄÄÄplugins
+³   ÃÄÄÄpawno
+³   ³   ÀÄÄÄinclude
+³   ³           a_mysql.inc
+³   ³           sscanf2.inc
+³   ³           streamer.inc
+³   ³           
+³   ÃÄÄÄplugins
+³   ³       crashdetect.dll
+³   ³       sscanf.dll
+³   ³       streamer.dll
+³   ³       streamer.so
+³   ³       
+³   ÀÄÄÄqawno
+³       ÀÄÄÄinclude
+³               sscanf2.inc
+³               
+ÃÄÄÄscriptfiles
+³   ³   Abajo.tde
+³   ³   Anticheat_uwu_log.txt
+³   ³   apartments.cfg
+³   ³   ASAN_Config.ini
+³   ³   ban.cfg
+³   ³   Baneados.rp
+³   ³   BarraAbajo.tde
+³   ³   bizz.cfg
+³   ³   cardealerships.json
+³   ³   dynamicdoors.cfg
+³   ³   families.cfg
+³   ³   familieshq.ini
+³   ³   garages.cfg
+³   ³   Gasolineras.rp
+³   ³   geoip.db
+³   ³   geoip_city.db
+³   ³   Incendios.rp
+³   ³   Incendios2.rp
+³   ³   motd.ini
+³   ³   nex-ac_nop_settings.cfg
+³   ³   nex-ac_settings.cfg
+³   ³   ObjetosAdmin.rp
+³   ³   points.cfg
+³   ³   PuertasDinamicas.rp
+³   ³   server-info.txt
+³   ³   ServerInfo.rp
+³   ³   serverstat.ini
+³   ³   skins.txt
+³   ³   stuff.ini
+³   ³   Stuff.rp
+³   ³   tdlist.lst
+³   ³   T_Publicos.rp
+³   ³   VehiculosUsados.rp
+³   ³   VehiculosVenta.rp
+³   ³   VehiculosVentaOld.rp
+³   ³   Vodka_SAMP.ini
+³   ³   
+³   ÃÄÄÄActores
+³   ³       Actor_0.rp
+³   ³       
+³   ÃÄÄÄanticheat
+³   ³       Anticheat.cfg
+³   ³       Anticheat.log
+³   ³       AnticheatChrome.log
+³   ³       ArmasProhibidas.cfg
+³   ³       ErrorRCON.txt
+³   ³       IPBaneadas.txt
+³   ³       ListaBlanca.txt
+³   ³       ListaNegra.txt
+³   ³       MalasPalabras.cfg
+³   ³       TemporalBaneados.txt
+³   ³       
+³   ÃÄÄÄCajeros
+³   ³       Cajero_0.rp
+³   ³       Cajero_1.rp
+³   ³       
+³   ÃÄÄÄCameras
+³   ³       index.txt
+³   ³       
+³   ÃÄÄÄCarritos_Comida
+³   ³       Carrito_0.rp
+³   ³       
+³   ÃÄÄÄCasas
+³   ³       Casa_0.rp
+³   ³       Casa_1.rp
+³   ³       Casa_2.rp
+³   ³       
+³   ÃÄÄÄEmpresas
+³   ³       Empresa_0.rp
+³   ³       Empresa_1.rp
+³   ³       Empresa_2.rp
+³   ³       iEmpresa_0.pro
+³   ³       iEmpresa_1.pro
+³   ³       
+³   ÃÄÄÄEstacionamientos
+³   ³       Estacion_0.rp
+³   ³       Estacion_1.rp
+³   ³       Estacion_2.rp
+³   ³       
+³   ÃÄÄÄFabricas
+³   ³       Fabrica_0.rp
+³   ³       Fabrica_1.rp
+³   ³       
+³   ÃÄÄÄFamilias
+³   ³       Fam_1.rp
+³   ³       Fam_10.rp
+³   ³       Fam_2.rp
+³   ³       Fam_3.rp
+³   ³       Fam_4.rp
+³   ³       Fam_9.rp
+³   ³       
+³   ÃÄÄÄGarages
+³   ³       Garage_0.rp
+³   ³       Garage_1.rp
+³   ³       Garage_2.rp
+³   ³       
+³   ÃÄÄÄHQs
+³   ³       HQ_0.rp
+³   ³       
+³   ÃÄÄÄJugadores
+³   ³       Fran_Medina
+³   ³       Jonathan_Mojica.rp
+³   ³       Jonathan_Mojicax.rp
+³   ³       Jonathan_Mojicaxs.rp
+³   ³       Jose_Oviedo.rp
+³   ³       Jose_Oviedos.rp
+³   ³       Jossuar_McLocker.rp
+³   ³       Rocco_Adamich.rp
+³   ³       
+³   ÃÄÄÄJunkBuster
+³   ³       BadRconLogin.txt
+³   ³       BadWords.cfg
+³   ³       Blacklist.txt
+³   ³       ForbiddenWeapons.cfg
+³   ³       IpBans.txt
+³   ³       JunkBuster.cfg
+³   ³       JunkBuster.log
+³   ³       TempBans.txt
+³   ³       Whitelist.txt
+³   ³       
+³   ÃÄÄÄlogs
+³   ³       admin.log
+³   ³       admvar0.log
+³   ³       ban.log
+³   ³       banco.log
+³   ³       blockbug.log
+³   ³       changename.log
+³   ³       cleanchat.log
+³   ³       cleanreports.log
+³   ³       contracts.log
+³   ³       countfam.log
+³   ³       createcar.log
+³   ³       darauto.log
+³   ³       darfichaspball.log
+³   ³       darpremium
+³   ³       darpremium.log
+³   ³       ddedit.log
+³   ³       desban.log
+³   ³       desbanip.log
+³   ³       dudas.log
+³   ³       dudasadm.log
+³   ³       eliminarauto.log
+³   ³       encargados.log
+³   ³       family.log
+³   ³       fixveh.log
+³   ³       fondosgob.log
+³   ³       fpayday.log
+³   ³       givegun.log
+³   ³       hack.log
+³   ³       hedit.log
+³   ³       house.log
+³   ³       jailoff.log
+³   ³       jails.log
+³   ³       kick.log
+³   ³       liberar.log
+³   ³       llenargas.log
+³   ³       makeadm.log
+³   ³       makehelp.log
+³   ³       mute-ad.log
+³   ³       noac.log
+³   ³       noduda.log
+³   ³       nofac.log
+³   ³       offban.log
+³   ³       oro.log
+³   ³       pagos.log
+³   ³       password.log
+³   ³       pay.log
+³   ³       qdinero.log
+³   ³       qrestri.txt
+³   ³       regalos.log
+³   ³       removefacc.log
+³   ³       reportes.log
+³   ³       reportesadm.log
+³   ³       revivir.log
+³   ³       savechanges.log
+³   ³       serverchanges.log
+³   ³       setmoney.log
+³   ³       setskin.log
+³   ³       setstat.log
+³   ³       staffvcasa.log
+³   ³       timersafelogin.log
+³   ³       traer.log
+³   ³       unblockbug.log
+³   ³       venderarma.log
+³   ³       vendercoche.log
+³   ³       vendermicoche.log
+³   ³       vipchat.log
+³   ³       vipdeal.log
+³   ³       warns.log
+³   ³       
+³   ÃÄÄÄMercados
+³   ³       Mercado_0.rp
+³   ³       Mercado_1.rp
+³   ³       Mercado_2.rp
+³   ³       Mercado_3.rp
+³   ³       
+³   ÃÄÄÄModelos
+³   ³       Accesorios.txt
+³   ³       AccesoriosVIP.txt
+³   ³       AccesorioTT.txt
+³   ³       MueblesBodega.txt
+³   ³       MueblesCasa.txt
+³   ³       MueblesGarages.txt
+³   ³       MueblesNegocios.txt
+³   ³       MueblesRepartos.txt
+³   ³       MueblesSotanos.txt
+³   ³       MueblesTalleres.txt
+³   ³       SkinsHombre.txt
+³   ³       SkinsMujer.txt
+³   ³       
+³   ÃÄÄÄmSelection
+³   ³       MueblesModelos.txt
+³   ³       
+³   ÃÄÄÄNegocios
+³   ³       Negocio_0.rp
+³   ³       Negocio_1.rp
+³   ³       Negocio_10.rp
+³   ³       Negocio_11.rp
+³   ³       Negocio_12.rp
+³   ³       Negocio_13.rp
+³   ³       Negocio_14.rp
+³   ³       Negocio_15.rp
+³   ³       Negocio_16.rp
+³   ³       Negocio_17.rp
+³   ³       Negocio_18.rp
+³   ³       Negocio_19.rp
+³   ³       Negocio_2.rp
+³   ³       Negocio_20.rp
+³   ³       Negocio_21.rp
+³   ³       Negocio_3.rp
+³   ³       Negocio_4.rp
+³   ³       Negocio_5.rp
+³   ³       Negocio_6.rp
+³   ³       Negocio_7.rp
+³   ³       Negocio_8.rp
+³   ³       Negocio_9.rp
+³   ³       
+³   ÃÄÄÄPlantas
+³   ³       s_0.rp
+³   ³       s_1.rp
+³   ³       s_2.rp
+³   ³       s_3.rp
+³   ³       s_4.rp
+³   ³       s_5.rp
+³   ³       s_6.rp
+³   ³       
+³   ÃÄÄÄproperties
+³   ³       banks.txt
+³   ³       businesses.txt
+³   ³       houses.txt
+³   ³       interiors.txt
+³   ³       police.txt
+³   ³       
+³   ÃÄÄÄRegistros
+³   ³       Antecedentes.log
+³   ³       Anuncios.log
+³   ³       ArmarioN.log
+³   ³       Bloqueados.log
+³   ³       BloquearIP.log
+³   ³       CambiosNombres.log
+³   ³       Casas.log
+³   ³       CederArmas.log
+³   ³       ChatAdmin.log
+³   ³       ChatVip.log
+³   ³       cheatsbalas.log
+³   ³       coins.txt
+³   ³       CrearAuto.log
+³   ³       CrearObjeto.log
+³   ³       DarAdmin.log
+³   ³       DarDinero.log
+³   ³       DarEncargado.log
+³   ³       Darvip.log
+³   ³       DejarMulta.log
+³   ³       DepositarBanco.log
+³   ³       Desban.log
+³   ³       DesbanIP.log
+³   ³       Embargos.log
+³   ³       Empresas.log
+³   ³       Familias.txt
+³   ³       FamiliasUnirse.log
+³   ³       fam_vehiculos.txt
+³   ³       Garages.log
+³   ³       inviteFAC.log
+³   ³       i_Empresas.log
+³   ³       LiberarJail.log
+³   ³       MaleterosFac.log
+³   ³       MaleterosU.log
+³   ³       MenuVIP.log
+³   ³       money_uwu.txt
+³   ³       multicuentas.log
+³   ³       Negocios.log
+³   ³       pds.txt
+³   ³       Pinchos.log
+³   ³       PuntosDeRol.log
+³   ³       QuitarAdmin.log
+³   ³       regalo.txt
+³   ³       RetirarBanco.log
+³   ³       TomarArma.log
+³   ³       
+³   ÃÄÄÄSERVER
+³   ³       AC.txt
+³   ³       
+³   ÃÄÄÄTerritorios
+³   ³       Territorio_0.rp
+³   ³       Territorio_1.rp
+³   ³       Territorio_2.rp
+³   ³       
+³   ÃÄÄÄvehicles
+³   ³       bone.txt
+³   ³       flint.txt
+³   ³       ls_airport.txt
+³   ³       ls_gen_inner.txt
+³   ³       ls_gen_outer.txt
+³   ³       ls_law.txt
+³   ³       lv_airport.txt
+³   ³       lv_gen.txt
+³   ³       lv_law.txt
+³   ³       pilots.txt
+³   ³       red_county.txt
+³   ³       sf_airport.txt
+³   ³       sf_gen.txt
+³   ³       sf_law.txt
+³   ³       sf_train.txt
+³   ³       tierra.txt
+³   ³       trains.txt
+³   ³       trains_platform.txt
+³   ³       whetstone.txt
+³   ³       
+³   ÃÄÄÄVehiculos
+³   ³       Veh_0.rp
+³   ³       Veh_1.rp
+³   ³       Veh_134.rp
+³   ³       Veh_2.rp
+³   ³       Veh_3.rp
+³   ³       Veh_4.rp
+³   ³       Veh_5.rp
+³   ³       Veh_6.rp
+³   ³       
+³   ÀÄÄÄYSI
+³       ³   core_LANG_DATA.yml
+³       ³   desktop.ini
+³       ³   new text.txt
+³       ³   new_mode.EN
+³       ³   new_mode_format.YSI
+³       ³   y_amx_test.pwn
+³       ³   y_classes_test.pwn
+³       ³   y_hooks_test.pwn
+³       ³   _temp_ysi_live_file_.ysi
+³       ³   
+³       ÃÄÄÄtext
+³       ³       core.DE
+³       ³       core.DK
+³       ³       core.EN
+³       ³       core.ES
+³       ³       core.FR
+³       ³       core.IT
+³       ³       core.NL
+³       ³       core.PL
+³       ³       core.SE
+³       ³       desktop.ini
+³       ³       
+³       ÀÄÄÄYDBG
+³               bank.xml
+³               cars.xml
+³               desktop.ini
+³               moneypoint.xml
+³               prop.xml
+³               props.xml
+³               
+ÀÄÄÄsscanf
+    ³   array.cpp
+    ³   array.h
+    ³   data.cpp
+    ³   data.h
+    ³   enum.cpp
+    ³   enum.h
+    ³   kustom.cpp
+    ³   makefile
+    ³   specifiers.cpp
+    ³   specifiers.h
+    ³   sscanf.cpp
+    ³   sscanf.def
+    ³   sscanf.h
+    ³   sscanf.sln
+    ³   sscanf.vcxproj
+    ³   sscanf.vcxproj.filters
+    ³   utils.cpp
+    ³   utils.h
+    ³   
+    ÀÄÄÄSDK
+        ³   amxplugin.cpp
+        ³   plugin.h
+        ³   plugincommon.h
+        ³   
+        ÀÄÄÄamx
+                amx.h
+                getch.c
+                getch.h
+                sclinux.h
+                
